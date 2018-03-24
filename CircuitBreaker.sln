@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircuitBreaker", "CircuitBreaker\CircuitBreaker.csproj", "{EEC631CF-0BC0-45CC-A8D0-75BA80BDC0D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{885CB834-DE30-4469-B1EA-9B126ED1E9DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dto", "Dto\Dto.csproj", "{616FA442-8FA0-4BED-B678-6ABDAF052450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC631CF-0BC0-45CC-A8D0-75BA80BDC0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC631CF-0BC0-45CC-A8D0-75BA80BDC0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC631CF-0BC0-45CC-A8D0-75BA80BDC0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC631CF-0BC0-45CC-A8D0-75BA80BDC0D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{885CB834-DE30-4469-B1EA-9B126ED1E9DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885CB834-DE30-4469-B1EA-9B126ED1E9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885CB834-DE30-4469-B1EA-9B126ED1E9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885CB834-DE30-4469-B1EA-9B126ED1E9DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{616FA442-8FA0-4BED-B678-6ABDAF052450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616FA442-8FA0-4BED-B678-6ABDAF052450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616FA442-8FA0-4BED-B678-6ABDAF052450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616FA442-8FA0-4BED-B678-6ABDAF052450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A57B0A7-F69E-4BBF-881B-461B4C843CC6}
+	EndGlobalSection
+EndGlobal
